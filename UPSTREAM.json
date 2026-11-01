@@ -1,0 +1,268 @@
+[
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/CodexVoiceInput.sln",
+    "upstream_path": "CodexVoiceInput.sln",
+    "git_blob_sha1": "68269190772d81529f09017eb4a840a39ff18e01"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/Directory.Build.props",
+    "upstream_path": "Directory.Build.props",
+    "git_blob_sha1": "7ec00b947a9e41d01afe827a8562225424a069c5"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/LICENSE",
+    "upstream_path": "LICENSE",
+    "git_blob_sha1": "6cb4882c92b91449689c89cbf19ce8746c83f8da"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/THIRD_PARTY_NOTICES.md",
+    "upstream_path": "THIRD_PARTY_NOTICES.md",
+    "git_blob_sha1": "1c43cc019834a55fdfd39ee4fe707855dd6fcf4f"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/App.xaml",
+    "upstream_path": "src/VoiceInput.App/App.xaml",
+    "git_blob_sha1": "f89578abf69ae58103d9b3c6a804fc034703ef43"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/App.xaml.cs",
+    "upstream_path": "src/VoiceInput.App/App.xaml.cs",
+    "git_blob_sha1": "5d1c341ced38507a938ab54185517ed8ee4c4056"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/MainWindow.xaml",
+    "upstream_path": "src/VoiceInput.App/MainWindow.xaml",
+    "git_blob_sha1": "128e0ae0bf3873d44820d0c29bfdcb5bb0ca7ec2"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/MainWindow.xaml.cs",
+    "upstream_path": "src/VoiceInput.App/MainWindow.xaml.cs",
+    "git_blob_sha1": "1326caba978a42eec8986b259e566b97942f55ab"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/Services/AppConfig.cs",
+    "upstream_path": "src/VoiceInput.App/Services/AppConfig.cs",
+    "git_blob_sha1": "caa16cafc8e52ad79059e6e796485a18d4cf46f7"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/Services/AppDiagnostics.cs",
+    "upstream_path": "src/VoiceInput.App/Services/AppDiagnostics.cs",
+    "git_blob_sha1": "b76cb4175906b7cde5aa982d6fdafe3eab967292"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/Services/ClipboardService.cs",
+    "upstream_path": "src/VoiceInput.App/Services/ClipboardService.cs",
+    "git_blob_sha1": "0192ab20089dcea5e86437bc2ef61a5042174149"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/Services/GlobalHotkey.cs",
+    "upstream_path": "src/VoiceInput.App/Services/GlobalHotkey.cs",
+    "git_blob_sha1": "fc596d6259739ad6ed5bedcd008d7cda3cdaac47"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/Services/HotkeyDefinition.cs",
+    "upstream_path": "src/VoiceInput.App/Services/HotkeyDefinition.cs",
+    "git_blob_sha1": "dcbc3ad58f61889be396f9a36bfff72890876197"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/Services/LayeredCapsuleWindow.cs",
+    "upstream_path": "src/VoiceInput.App/Services/LayeredCapsuleWindow.cs",
+    "git_blob_sha1": "ec6586a5db3425b0a27dcfa54674a9d685796e95"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/Services/RecognitionHistoryStore.cs",
+    "upstream_path": "src/VoiceInput.App/Services/RecognitionHistoryStore.cs",
+    "git_blob_sha1": "ad200c03c98633fa8a81a2c8d91902b0f369b77c"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/Services/WavAudioRecorder.cs",
+    "upstream_path": "src/VoiceInput.App/Services/WavAudioRecorder.cs",
+    "git_blob_sha1": "cb8b21932701e8faff54a5afa0e568929c3e7ca5"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/Services/Win32TextInjector.cs",
+    "upstream_path": "src/VoiceInput.App/Services/Win32TextInjector.cs",
+    "git_blob_sha1": "c6b667514d771f72828a74d6539dc18506f6d6d7"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/Services/Win32TrayIcon.cs",
+    "upstream_path": "src/VoiceInput.App/Services/Win32TrayIcon.cs",
+    "git_blob_sha1": "47f440b16a4fc106e66224ae597e6ad723e44304"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/SettingsWindow.xaml",
+    "upstream_path": "src/VoiceInput.App/SettingsWindow.xaml",
+    "git_blob_sha1": "60c005e33fe8edda6d68f646b021c2a857b2a496"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/SettingsWindow.xaml.cs",
+    "upstream_path": "src/VoiceInput.App/SettingsWindow.xaml.cs",
+    "git_blob_sha1": "1b994a8c1ec1761edac852f751532f4583dd10d5"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/VoiceInput.App.csproj",
+    "upstream_path": "src/VoiceInput.App/VoiceInput.App.csproj",
+    "git_blob_sha1": "f14a33a868a08f8f5a158f7365af6905b823b61c"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.App/app.manifest",
+    "upstream_path": "src/VoiceInput.App/app.manifest",
+    "git_blob_sha1": "7bff47b13afebd248a990d59c5064e8dd0f89f33"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.Core/Capsule/CapsuleController.cs",
+    "upstream_path": "src/VoiceInput.Core/Capsule/CapsuleController.cs",
+    "git_blob_sha1": "5f250eb1e4a39375425d8183f31ab1d3e9d2a96e"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.Core/Recognition/CodexAsrRecognitionEngine.cs",
+    "upstream_path": "src/VoiceInput.Core/Recognition/CodexAsrRecognitionEngine.cs",
+    "git_blob_sha1": "b3d07762c4c74d5671f298a8b9f56fd56f30c003"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.Core/Recognition/IRecognitionEngine.cs",
+    "upstream_path": "src/VoiceInput.Core/Recognition/IRecognitionEngine.cs",
+    "git_blob_sha1": "e0bd8541a255e924e224888b617a4293e378432e"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.Core/Recognition/RecognitionOptions.cs",
+    "upstream_path": "src/VoiceInput.Core/Recognition/RecognitionOptions.cs",
+    "git_blob_sha1": "fc537443bae3169b03e5bb1d16e41ef0ecdbd518"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.Core/Recognition/RecognitionResult.cs",
+    "upstream_path": "src/VoiceInput.Core/Recognition/RecognitionResult.cs",
+    "git_blob_sha1": "c76beedaa9b11daf79dec9fc404d6d26883e7270"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.Core/Text/TextPostProcessor.cs",
+    "upstream_path": "src/VoiceInput.Core/Text/TextPostProcessor.cs",
+    "git_blob_sha1": "51faefb9cafb7e8a9f2a9ea6e2e5e5123ed6215f"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.Core/VoiceInput.Core.csproj",
+    "upstream_path": "src/VoiceInput.Core/VoiceInput.Core.csproj",
+    "git_blob_sha1": "42f1605954463746dc010b661b011282b32be638"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.Protocol/CapsuleSnapshot.cs",
+    "upstream_path": "src/VoiceInput.Protocol/CapsuleSnapshot.cs",
+    "git_blob_sha1": "c7b2a4c0c493e4fd801d7b365f770dc2bf72fd78"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.Protocol/CapsuleState.cs",
+    "upstream_path": "src/VoiceInput.Protocol/CapsuleState.cs",
+    "git_blob_sha1": "f5e12d8b442c818965260ef412dfea128da2083b"
+  },
+  {
+    "upstream": "A3Boy/codex-voice-input",
+    "commit": "f892017aeac3c122b41bc53a3b77c492d505bdc4",
+    "path": "vendor/codex-voice-input/src/VoiceInput.Protocol/VoiceInput.Protocol.csproj",
+    "upstream_path": "src/VoiceInput.Protocol/VoiceInput.Protocol.csproj",
+    "git_blob_sha1": "ad1b47cd6c3e9a181b92feda2afeef8a58ec87fa"
+  },
+  {
+    "upstream": "Wangnov/codex-asr",
+    "commit": "479f6a7a3db81fe2a23d4755b0ccbeb4400317d4",
+    "path": "vendor/codex-asr/Cargo.lock",
+    "upstream_path": "Cargo.lock",
+    "git_blob_sha1": "0b007e4e6c12fc5dee210195387f10a1bade1133"
+  },
+  {
+    "upstream": "Wangnov/codex-asr",
+    "commit": "479f6a7a3db81fe2a23d4755b0ccbeb4400317d4",
+    "path": "vendor/codex-asr/Cargo.toml",
+    "upstream_path": "Cargo.toml",
+    "git_blob_sha1": "ef0f43f60696812670c7d6e7cd427b3a837fd883"
+  },
+  {
+    "upstream": "Wangnov/codex-asr",
+    "commit": "479f6a7a3db81fe2a23d4755b0ccbeb4400317d4",
+    "path": "vendor/codex-asr/LICENSE-MIT",
+    "upstream_path": "LICENSE-MIT",
+    "git_blob_sha1": "d9313632fec6023d47add8dc2cd4e4d3539f00c5"
+  },
+  {
+    "upstream": "Wangnov/codex-asr",
+    "commit": "479f6a7a3db81fe2a23d4755b0ccbeb4400317d4",
+    "path": "vendor/codex-asr/src/lib.rs",
+    "upstream_path": "src/lib.rs",
+    "git_blob_sha1": "021af07453bdb22f7b2b2c196e76d5a3b23e1af4"
+  },
+  {
+    "upstream": "Wangnov/codex-asr",
+    "commit": "479f6a7a3db81fe2a23d4755b0ccbeb4400317d4",
+    "path": "vendor/codex-asr/src/main.rs",
+    "upstream_path": "src/main.rs",
+    "git_blob_sha1": "ca95872151c9c3fcada21644bfbe0274acf6b421"
+  },
+  {
+    "upstream": "Wangnov/codex-asr",
+    "commit": "479f6a7a3db81fe2a23d4755b0ccbeb4400317d4",
+    "path": "vendor/codex-asr/README.md",
+    "upstream_path": "README.md",
+    "git_blob_sha1": "f6e95d3662fd8728cc61ec240cd52506cd14cdf3"
+  }
+]
