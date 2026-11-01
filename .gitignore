@@ -1,9 +1,13 @@
-.venv/
 __pycache__/
 *.pyc
+**/bin/
+**/obj/
+**/target/
 .env
-models/
-data/
+.env.*
+*.log
 *.wav
 *.mp3
 *.m4a
+*.exe
+*.dll
